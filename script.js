@@ -35,3 +35,4 @@ console.log (answer(100,99,25));
     return calculateAverage;
 };
 average(3,6,7,2,9);
+console.log (average(3,6,7,2,9))
